@@ -22,7 +22,7 @@
         app:layout_constraintGuide_percent="0.87" />
 
     <ImageButton
-        android:id="@+id/imageButton8"
+        android:id="@+id/imageButton1"
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_marginTop="120dp"
@@ -33,7 +33,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageButton
-        android:id="@+id/imageButton9"
+        android:id="@+id/imageButton2"
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_marginTop="120dp"
@@ -45,7 +45,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageButton
-        android:id="@+id/imageButton10"
+        android:id="@+id/imageButton3"
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_marginTop="16dp"
@@ -53,10 +53,10 @@
         android:scaleType="centerCrop"
         android:src="@drawable/tres"
         app:layout_constraintStart_toStartOf="@+id/guideline4"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton8" />
+        app:layout_constraintTop_toBottomOf="@+id/imageButton1" />
 
     <ImageButton
-        android:id="@+id/imageButton11"
+        android:id="@+id/imageButton4"
         android:layout_width="150dp"
         android:layout_height="150dp"
         android:layout_marginTop="16dp"
@@ -64,10 +64,10 @@
         android:scaleType="centerCrop"
         android:src="@drawable/quatro"
         app:layout_constraintEnd_toStartOf="@+id/guideline5"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton9" />
+        app:layout_constraintTop_toBottomOf="@+id/imageButton2" />
 
     <ImageButton
-        android:id="@+id/imageButton12"
+        android:id="@+id/imageButton5"
         android:layout_width="140dp"
         android:layout_height="140dp"
         android:layout_marginTop="16dp"
@@ -75,10 +75,10 @@
         android:scaleType="centerCrop"
         android:src="@drawable/cinco"
         app:layout_constraintStart_toStartOf="@+id/guideline4"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton10" />
+        app:layout_constraintTop_toBottomOf="@+id/imageButton3" />
 
     <ImageButton
-        android:id="@+id/imageButton13"
+        android:id="@+id/imageButton6"
         android:layout_width="150dp"
         android:layout_height="140dp"
         android:layout_marginTop="16dp"
@@ -86,5 +86,5 @@
         android:scaleType="centerCrop"
         android:src="@drawable/seis"
         app:layout_constraintEnd_toStartOf="@+id/guideline5"
-        app:layout_constraintTop_toBottomOf="@+id/imageButton11" />
+        app:layout_constraintTop_toBottomOf="@+id/imageButton4" />
 </androidx.constraintlayout.widget.ConstraintLayout>
