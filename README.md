@@ -1,4 +1,5 @@
 # App-8-Aprenda-Ingles-Android-Studio-Java
+[![wakatime](https://wakatime.com/badge/user/268de5b9-4dbd-4873-9ede-a165e5745754/project/ce7d9119-2ed1-435c-8fb4-96fde37ecc2b.svg)](https://wakatime.com/badge/user/268de5b9-4dbd-4873-9ede-a165e5745754/project/ce7d9119-2ed1-435c-8fb4-96fde37ecc2b)
 
 - Criando interface de Abas
 - Criando interface dos fragments
